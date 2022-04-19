@@ -18,7 +18,7 @@ I am a 2nd year Computer Science student. I enjoy programming and I am currently
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" title="SQLServer" width="40" height="40"/>&nbsp;
 </div>
 
-##
+## :fire: Streak
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adicimpianu&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
