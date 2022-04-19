@@ -20,5 +20,5 @@ I am a 2nd year Computer Science student. I enjoy programming and I am currently
 
 ##
 
-  <img src="https://i.pinimg.com/originals/5a/86/54/5a86548094cbbf1acda8a3371e2e6384.jpg" title="Raccoon"/>&nbsp;
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adicimpianu&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
