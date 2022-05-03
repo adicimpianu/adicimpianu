@@ -5,9 +5,9 @@ I am a 2nd year Computer Science student. I enjoy programming and I am currently
 
 ## Personal Progress 📈
 - 🌱 I’m currently learning: .NET, MVVM
-- 💻 I'm currently working on: Hangman Game, College Assignments 📘
+- 💻 I'm currently working on: College Assignments 📘
 - 🌟 My favorite languages, so far, are: C++, C#
-- ✔️ My current interests are: .NET WPF Applications, C++ Game Development
+- ✔️ My current interests are: .NET WPF Applications, C++
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" width="40" height="40"/>&nbsp;
